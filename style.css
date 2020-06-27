@@ -1,0 +1,50 @@
+body{
+    background-color: chocolate !important;
+}
+.head{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.mark{
+    color: rgb(75, 43, 43);
+    font-weight: bold;
+}
+.ff{
+    width: 50%;
+    
+}
+.fa{
+    text-align: center;
+}
+.main{
+    border: 2px solid white;
+    max-width: 50%;
+    margin: auto;
+    
+}
+.bt{
+    width: 50%;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bold;
+}
+.aa{
+    text-align: center;
+}
+.tt{
+    text-align: center;
+    
+}
+.zz{
+    width: 12%;
+    font-weight: bold;
+}
+.zs{
+    width: 25%;
+    font-weight: bold;
+}
+.ze{
+    width: 25%;
+    background-color:lightblue;
+    font-weight: bold;
+}
